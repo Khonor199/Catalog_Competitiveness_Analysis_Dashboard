@@ -59,6 +59,15 @@ The dashboard is interactive, allowing users to filter data by catalog, top cate
 
 ---
 
+#### **SQL_code**
+
+| File | Description |
+|------|-------------|
+| `1_catalog_analysis.sql` | Core analysis: delivery cost, pricing, ABC analysis by GMV and order frequency |
+| `2_non_optimal_pricing.sql` | Filters for models where the selected catalog is not the lowest-priced option |
+
+---
+
 ### 🖥️ **Sample Output**
 
 Below are screenshots of the dashboard showcasing its key features:
